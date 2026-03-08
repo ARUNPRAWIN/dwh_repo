@@ -1,3 +1,4 @@
+--Arun's Code - first commit
 create database stgdb;
 CREATE TABLE stgdb.stg_accounts (
     AccountID VARCHAR(50),
